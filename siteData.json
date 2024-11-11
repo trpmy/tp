@@ -55,7 +55,6 @@
         "list-transactions-listt-index": "List Transactions listt INDEX",
         "find-transactions-findt-keyword-keywords": "Find Transactions findt KEYWORD [KEYWORDS]",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -66,6 +65,7 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-client": "Deleting a client",
+        "adding-a-transaction-to-a-client": "Adding a transaction to a client",
         "listing-transactions-for-a-client": "Listing transactions for a client",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
@@ -121,8 +121,9 @@
         "transaction-management-commands": "Transaction Management Commands",
         "data-management": "Data Management",
         "faq": "FAQ",
-        "known-issues": "Known issues",
-        "command-summary": "Command Summary"
+        "known-issues": "Known Issues",
+        "command-summary": "Command Summary",
+        "parameter-summary": "Parameter Summary"
       },
       "headingKeywords": {}
     },
